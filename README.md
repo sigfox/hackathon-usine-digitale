@@ -5,15 +5,18 @@ Basic instructions to get started with your Atmel Arduino shield, and send your 
 This is an Arduino *shield*, which means you mean an [Arduino](http://arduino.cc) board to act as its master.
 
 
+
 ##Resources
 
 Useful resources : 
 
 * [Sigfox developer portal](http://makers.sigfox.com)
 * [This Sigfox overview on slideshare](http://www.slideshare.net/nicolsc-slides/sigfox-makers-tour-bratislava)
+* [Ask Sigfox](http://ask.sigfox.com) : Sigfox Q&A platform
 * Atmel documentation :
 	* http://www.atmel.com/products/wireless/sigfox/default.aspx
 	* http://www.atmel.com/devices/ata8520.aspx
+
 
 ##Register
 
