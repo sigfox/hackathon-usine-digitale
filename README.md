@@ -24,8 +24,14 @@ Choose the following settings :
 * Provider : Atmel
 * Operator : 🇫🇷 Sigfox
 
+![](./backend-screenshots/activate-provider.png)
+![](./backend-screenshots/activate-operator.png)
+
 Then enter the informations related to your own device.
 ID & PAC are printed on the back of the board, or you can extract them through a command
+
+
+![](./backend-screenshots/activate-device.png)
 
 
 Once registered, you will receive an automated email asking you to setup your password.   
