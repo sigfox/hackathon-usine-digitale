@@ -34,7 +34,7 @@ After that ... you're good to go ! Your account is ready to receive & manage the
 
 ##Hello world
 
-Simply copy the Hello World sample sketch in this repository. 
+Simply copy the [./atmelhelloworld/atmelhelloworld.ino](Hello World sample sketch) in this repository. 
 
 Provided with this sample, you have two Arduino librairies :
 
