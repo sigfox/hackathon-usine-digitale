@@ -102,3 +102,10 @@ Go to the _Devices_ section on [the sigfox portal](http://backend.sigfox.com) , 
 ![New callback](./backend-screenshots/new-callback.png)
 
 ![Callback settings](./backend-screenshots/callback-settings.png)
+
+
+##Help
+
+We'll be on site over the weekend (Alex saturday, Nicolas friday night & sunday)
+
+\+ feel free to contact us during the hackathon at devrelations@sigfox.com , or on twitter : [Alex @AlexRBucknall](http://twitter.com/AlexRBucknall) - [Nicolas @nlesconnec](http://twitter.com/nlesconnec)
