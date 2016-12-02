@@ -19,7 +19,7 @@ Useful resources :
 
 Register your kit on [the devkit activation page](http://backend.sigfox.com/activate) 
 
-Choose the following settings  
+Choose the following settings : 
 
 * Provider : Atmel
 * Operator : 🇫🇷 Sigfox
@@ -34,7 +34,7 @@ After that ... you're good to go ! Your account is ready to receive & manage the
 
 ##Hello world
 
-Simply copy the [./atmelhelloworld/atmelhelloworld.ino](Hello World sample sketch) in this repository. 
+Simply copy the [Hello World sample sketch](./atmelhelloworld/atmelhelloworld.ino) in this repository. 
 
 Provided with this sample, you have two Arduino librairies :
 
