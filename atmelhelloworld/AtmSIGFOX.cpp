@@ -87,8 +87,8 @@ int SIGFOX::sendMessage(unsigned char mess[],int len)
   digitalWrite(SS,HIGH); delayMicroseconds(50);
   
   digitalWrite(SS,LOW); delayMicroseconds(50);
-//  SPI.transfer(0x0D); delayMicroseconds(50);
-  SPI.transfer(0x0E);delayMicroseconds(50);
+  SPI.transfer(0x0D); delayMicroseconds(50);
+//  SPI.transfer(0x0E);delayMicroseconds(50);
   digitalWrite(SS,HIGH); delayMicroseconds(50);
   int ret=99;
   for(i=0;i<300;i++) 
